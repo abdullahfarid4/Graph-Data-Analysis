@@ -1,5 +1,3 @@
-The "LSEG Junior Data Scientist Assessment 2026 - Abdullah Farid" zip file:
-
 Reads Data Files:
 1) OpenPermID-bulk-assetClass.ntriples
 2) OpenPermID-bulk-currency.ntriples
